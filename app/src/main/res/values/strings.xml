@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Archery Scores Recorder ;)</string>
+
+
+    <string name="arrow0">arrow0</string>
+    <string name="arrow1">arrow1</string>
+    <string name="arrow2">arrow2</string>
+    <string name="arrow3">arrow3</string>
+    <string name="arrow4">arrow4</string>
+    <string name="arrow5">arrow5</string>
+    <string name="arrow6">arrow6</string>
+    <string name="arrow7">arrow7</string>
+    <string name="arrow8">arrow8</string>
+    <string name="arrow9">arrow9</string>
+
+
+</resources>
